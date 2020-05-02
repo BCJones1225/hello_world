@@ -1,7 +1,7 @@
 [package]
-name = "hello"
+name = "hello_world"
 version = "0.1.0"
-authors = ["ubuntu"]
+authors = ["Bryan Jones <bcjones1225@gmail.com>"]
 edition = "2018"
 
 [dependencies]
